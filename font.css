@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Sofia Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: url('/SofiaPro-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Sofia Pro';
+  font-style: normal;
+  font-weight: 800;
+  src: url('/SofiaPro-Bold.otf') format('opentype');
+}
